@@ -1,4 +1,4 @@
-FROM openjdk:8u181-jdk-alpine
+FROM java:openjdk-8-jdk-alpine
 
 WORKDIR /home/apps/
 
